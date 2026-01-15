@@ -786,7 +786,7 @@ export default function Portfolio() {
               </Card>
             </a>
             <a
-              href="https://leetcode.com/u/Sandeepkumar099/"
+              href="https://leetcode.com/u/hunter_099/"
               target="_blank"
               rel="noopener noreferrer"
               className="group"
