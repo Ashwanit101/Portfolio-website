@@ -763,7 +763,7 @@ export default function Portfolio() {
               </Card>
             </a>
             <a
-              href="https://www.codeforces.com/profile/sihare_123"
+              href="https://codeforces.com/profile/sihare_123"
               target="_blank"
               rel="noopener noreferrer"
               className="group"
